@@ -11,5 +11,3 @@ readLine.question('Informe seu nome:', input => {
     leituraDeCampo = input
     console.log(`O usuário digitou: ${leituraDeCampo}`);
 });
-
-
